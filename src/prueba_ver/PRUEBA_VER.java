@@ -16,6 +16,7 @@ public class PRUEBA_VER {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Esto es una prueba de Versionado");
-        System.out.println("Esta es otra prueba");
+        System.out.println("Esta es otra prueba mas");
+        System.out.println("y otra mas");
     }
 }
